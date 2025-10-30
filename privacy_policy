@@ -1,0 +1,124 @@
+🇹🇷 Türkçe Sürüm
+1. Genel Bilgi
+
+AkpınarNavi, kullanıcı deneyimini geliştirmek amacıyla konum verilerini ve anonim kullanım istatistiklerini toplar.
+Bu uygulama Google Maps, Firebase ve Google AdMob hizmetlerini kullanmaktadır.
+Toplanan hiçbir kişisel veri üçüncü şahıslarla doğrudan paylaşılmaz.
+
+2. Toplanan Veriler
+
+Uygulama aşağıdaki bilgileri toplayabilir:
+
+Cihaz modeli, işletim sistemi sürümü
+
+Yaklaşık konum verisi (navigasyon işlevi için)
+
+Uygulama içi etkileşimler ve oturum istatistikleri
+
+Reklam kimliği (AdMob gelir raporlaması için)
+
+Kişisel kimlik bilgileri (ad, e-posta, telefon vb.) kesinlikle talep edilmez.
+
+3. Verilerin Kullanımı
+
+Toplanan veriler şu amaçlarla kullanılır:
+
+Harita yönlendirmesi sağlamak
+
+Uygulama performansını ve kararlılığını artırmak
+
+Uygulama içi reklamları kişiselleştirmek
+
+Hata raporlarını analiz etmek
+
+4. Üçüncü Taraf Hizmetleri
+
+AkpınarNavi, aşağıdaki üçüncü taraf SDK’ları kullanmaktadır:
+
+Google Maps SDK — Navigasyon ve haritalar
+
+Firebase Analytics — Kullanıcı davranış analizi
+
+Google AdMob — Reklam gösterimleri
+
+Bu hizmetler kendi gizlilik politikalarına tabidir:
+👉 Google Gizlilik Politikası
+
+5. Verilerin Güvenliği
+
+Tüm veriler güvenli sunucularda saklanır ve yalnızca uygulama işlevleri için kullanılır.
+Kullanıcı verileri satılmaz, kiralanmaz veya paylaşılmaz.
+
+6. Kullanıcı Hakları
+
+Kullanıcılar, verilerinin silinmesini veya anonimleştirilmesini talep edebilir.
+Bunun için geliştiriciyle şu e-posta adresinden iletişime geçebilirsiniz:
+📧 mrkharsn@gmail.com
+
+7. Politika Güncellemeleri
+
+Gizlilik politikası gerektiğinde güncellenebilir.
+Tüm değişiklikler bu sayfada yayınlanacaktır.
+
+
+EN
+English Version
+1. General Information
+
+AkpınarNavi collects limited data to improve navigation accuracy and app performance.
+The app uses Google Maps, Firebase, and Google AdMob services.
+No personally identifiable information is directly shared with third parties.
+
+2. Data Collected
+
+The app may collect:
+
+Device model and OS version
+
+Approximate location (for navigation)
+
+In-app interaction and session data
+
+Advertising ID (for AdMob reporting)
+
+No personal data such as name, email, or phone number is collected.
+
+3. Use of Data
+
+Data is used to:
+
+Provide accurate navigation routes
+
+Improve app performance
+
+Personalize ad experiences
+
+Analyze crash and usage reports
+
+4. Third-Party Services
+
+AkpınarNavi integrates the following third-party SDKs:
+
+Google Maps SDK — Maps and routing
+
+Firebase Analytics — Usage analysis
+
+Google AdMob — Advertisement display
+
+Please refer to Google’s Privacy Policy
+ for more details.
+
+5. Data Security
+
+All data is securely stored and used solely for operational purposes.
+User data is never sold or shared with any external entity.
+
+6. User Rights
+
+Users may request deletion or anonymization of their data by contacting:
+📧 mrkharsn@gmail.com
+
+7. Updates
+
+This Privacy Policy may be updated from time to time.
+Changes will always be reflected on this page.
